@@ -1,34 +1,27 @@
-1. Introduction
+Introduction
+============
+
+##Copyright
+
+THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May. All rights reserved. See the detailed disclaimer. Use short sections under "fair use" provisions, with appropriate credit, but don't put your name on my words.
   
-  1.1. copyright
-            THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666,
-            1994-09-10, Copyright Timothy C. May. All rights reserved.
-            See the detailed disclaimer. Use short sections under "fair
-            use" provisions, with appropriate credit, but don't put your
-            name on my words.
-  
-  1.2. Foreword
-         - The Cypherpunks have existed since September, 1992. In that
-            time, a vast amount has been written on cryptography, key
-            escrow, Clipper, the Net, the Information Superhighway, cyber
-            terrorists, and crypto anarchy. We have found ourselves (or
-            _placed_ ourselves) at the center of the storm.
-         - This FAQ may help to fill in some gaps about what we're
-            about, what motivates us, and where we're going. And maybe
-            some useful knowledge on crypto, remailers, anonymity,
-            digital cash, and other interesting things.
-         + The Basic Issues
-           + Great Divide: privacy vs. compliance with laws
-             + free speech and privacy, even if means some criminals
-                cannot be caught (a stand the U.S. Constitution was
-                strongly in favor of, at one time)
-               - a man's home is his castle...the essence of the Magna
-                  Carta systems...rights of the individual to be secure
-                  from random searches
-             + or invasive tactics to catch criminals, regulate
-                behavior, and control the population
-               - the legitimate needs to enforce laws, to respond to
-                  situations
+##Foreword
+
+- The Cypherpunks have existed since September, 1992. In that time, a vast amount has been written on cryptography, key escrow, Clipper, the Net, the Information Superhighway, cyber terrorists, and crypto anarchy. We have found ourselves (or _placed_ ourselves) at the center of the storm.
+- This FAQ may help to fill in some gaps about what we're about, what motivates us, and where we're going. And maybe some useful knowledge on crypto, remailers, anonymity, digital cash, and other interesting things.
+
++ The Basic Issues
++ Great Divide: privacy vs. compliance with laws
++ free speech and privacy, even if means some criminals
+cannot be caught (a stand the U.S. Constitution was
+strongly in favor of, at one time)
+- a man's home is his castle...the essence of the Magna
+Carta systems...rights of the individual to be secure
+from random searches
++ or invasive tactics to catch criminals, regulate
+behavior, and control the population
+- the legitimate needs to enforce laws, to respond to
+situations
              + this parallels the issue of self-protection vs.
                 protection by law and police
                - as seen in the gun debate
