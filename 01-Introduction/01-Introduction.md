@@ -1,11 +1,11 @@
 Introduction
 ============
 
-##Copyright
+## 1.1 Copyright
 
 THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May. All rights reserved. See the detailed disclaimer. Use short sections under "fair use" provisions, with appropriate credit, but don't put your name on my words.
   
-##Foreword
+## 1.2 Foreword
 
 - The Cypherpunks have existed since September, 1992. In that time, a vast amount has been written on cryptography, key escrow, Clipper, the Net, the Information Superhighway, cyber terrorists, and crypto anarchy. We have found ourselves (or _placed_ ourselves) at the center of the storm.
 - This FAQ may help to fill in some gaps about what we're about, what motivates us, and where we're going. And maybe some useful knowledge on crypto, remailers, anonymity, digital cash, and other interesting things.
@@ -52,7 +52,7 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
   - a myriad of encryption programs, bulk  ciphers, variants on PGP, etc. Some of these I've listed...others I've had to throw my hands over and just ignore. (Keeping track of zillions of versions for dozens of platforms...)
   - easy to get lost in the details, buried in the bullshit
   
-##Motivations
+## 1.3 Motivations
 
     1.3.1. With so much material available, why another FAQ?
     1.3.2. No convenient access to archives of the list....and who could
