@@ -29,7 +29,7 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
   - The list has a lot of radical libertarians, some anarcho-capitalists, and even a few socialists
   - Mostly computer-related folks, as might be expected. (There are some political scientists, classical scholars, etc. Even a few current or ex-lawyers.)
   + Do I Speak for Others?
-  +   - As I said, no. But sometimes I make claims about what "most" list members believe, what "many" believe, or what "some" believe.
+  + As I said, no. But sometimes I make claims about what "most" list members believe, what "many" believe, or what "some" believe.
   - "Most" is my best judgment of what the majority believe, at least the vocal majority in Cypherpunks discussions (at the physical meetings, parties, etc.) and on the List. "Many" means fewer, and "some" fewer still. "A few" will mean a distinct minority. Note that this is from the last 18 months of activity (so don't send in clarifications now to try to "sway the vote").
   - In particular, some members may be quite uncomfortable being described as anarchists, crypto anarchists, money launderers, etc.
 +  My comments won't please everyone
@@ -54,10 +54,9 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
   
 ## 1.3 Motivations
 
-    1.3.1. With so much material available, why another FAQ?
-    1.3.2. No convenient access to archives of the list....and who could
-            read 50 MB of stuff anyway?
-    1.3.3. Why not Web? (Mosaic, Http, URL, etc.)
+- With so much material available, why another FAQ?
+- No convenient access to archives of the list....and who could read 50 MB of stuff anyway?
+- Why not Web? (Mosaic, Http, URL, etc.)
            - Why not a navigable Web document?
            - This is becoming trendy. Lots of URLs are included here, in
               fact. But making all documents into Web documents has
