@@ -9,109 +9,51 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
 
 - The Cypherpunks have existed since September, 1992. In that time, a vast amount has been written on cryptography, key escrow, Clipper, the Net, the Information Superhighway, cyber terrorists, and crypto anarchy. We have found ourselves (or _placed_ ourselves) at the center of the storm.
 - This FAQ may help to fill in some gaps about what we're about, what motivates us, and where we're going. And maybe some useful knowledge on crypto, remailers, anonymity, digital cash, and other interesting things.
-
-+ The Basic Issues
-+ Great Divide: privacy vs. compliance with laws
-+ free speech and privacy, even if means some criminals
-cannot be caught (a stand the U.S. Constitution was
-strongly in favor of, at one time)
-- a man's home is his castle...the essence of the Magna
-Carta systems...rights of the individual to be secure
-from random searches
-+ or invasive tactics to catch criminals, regulate
-behavior, and control the population
-- the legitimate needs to enforce laws, to respond to
-situations
-             + this parallels the issue of self-protection vs.
-                protection by law and police
-               - as seen in the gun debate
-               - crypto = guns in the sense of being an individual's
-                  preemptive protection
-             - past the point of no return
-           - Strong crypto as building material for a new age
-           + Transnationalism and Increased Degrees of Freedom
-             - governments can't hope to control movements and
-                communications of citizens; borders are transparent
-         + Not all list members share all views
-           - This is not "the Official Cypherpunks FAQ." No such thing
-              can exist. This is the FAQ I wanted written. Views
-              expressed are my own, with as much input from others, as
-              much consensus, as I can manage. If you want a radically
-              different FAQ, write it yourself.  If you don't like this
-              FAQ, don't read it. And tell your friends not to read it.
-              But don't bog down my mailbox, or the 500 others on the
-              list, with messages about how you would have worded Section
-              12.4.7.2 slightly differently, or how Section 6.9.12 does
-              not fully reflect your views. For obvious reasons.
-           - All FAQs are the products of a primary author, sometimes of
-              a committee. For this FAQ, I am the sole author. At least
-              of the version you are reading now. Future versions may
-              have more input from others, though this makes me nervous
-              (I favor new authors writing their own stuff, or using
-              hypertext links, rather than taking my basic writing and
-              attaching their name to it--it is true that I include the
-              quotes of many folks here, but I do so by explicitly
-              quoting them in the chunk they wrote....it will be tough
-              for later authors to clearly mark what Tim May wrote
-              without excessively cluttering the text. The revisionist's
-              dilemma.
-           - The list has a lot of radical libertarians, some anarcho-
-              capitalists, and even a few socialists
-           - Mostly computer-related folks, as might be expected. (There
-              are some political scientists, classical scholars, etc.
-              Even a few current or ex-lawyers.)
-           + Do I Speak for Others?
-             - As I said, no. But sometimes I make claims about what
-                "most" list members believe, what "many" believe, or what
-                "some" believe.
-             - "Most" is my best judgment of what the majority believe,
-                at least the vocal majority in Cypherpunks discussions
-                (at the physical meetings, parties, etc.) and on the
-                List. "Many" means fewer, and "some" fewer still. "A few"
-                will mean a distinct minority. Note that this is from the
-                last 18 months of activity (so don't send in
-                clarifications now to try to "sway the vote").
-             - In particular, some members may be quite uncomfortable
-                being described as anarchists, crypto anarchists, money
-                launderers, etc.
-         +  My comments won't please everyone
-           - on nearly every point ever presented, some have disagreed
-           - feuds, battles, flames, idee fixes
-           - on issues ranging from gun control to Dolphin Encrypt to
-              various pet theories held dearly
-           - Someone once made a mundane joke about pseudonyms being
-              like multiple personality disorder--and a flame came back
-              saying: "That's not funny. I am MPD and my SO is MPD.
-              Please stop immediately!"
-           - can't be helped....can't present all sides to all arguments
-         + Focus of this FAQ is U.S.-centric, for various reasons
-           - most on list are in U.S., and I am in U.S.
-           - NSA and crypto community is largely centered in the U.S.,
-              with some strong European activities
-           - U.S. law is likely to influence overseas law
-         + We are at a fork in the road,  a Great Divide
-           - Surveillance vs. Freedom
-           - nothing in the middle...either strong crypto and privacy is
-              strongly limited, or the things I describe here will be
-              done by some people....hence the "tipping factor" applies
-              (point of no return, horses out of the barn)
-         + I make no claim to speaking "for the group." If you're
-            offended, write your own FAQ. My focus on things loosely
-            called "crypto anarchy" is just that: my _focus_. This focus
-            naturally percolates over into something like this FAQ, just
-            as someone primarily interested in the mechanics of PGP would
-            devote more space to PGP issues than I have.
-           - Gary Jeffers, for example, devotes most of his "CEB" to
-              issues surrounding PGP.
-         + Will leave out some of the highly detailed items...
-           - Clipper, LEAF, escrow, Denning, etc.
-           - a myriad of encryption programs, bulk  ciphers, variants on
-              PGP, etc. Some of these I've listed...others I've had to
-              throw my hands over and just ignore. (Keeping track of
-              zillions of versions for dozens of platforms...)
-           - easy to get lost in the details, buried in the bullshit
+- The Basic Issues
+  - Great Divide: privacy vs. compliance with laws
+    - free speech and privacy, even if means some criminals cannot be caught (a stand the U.S. Constitution was strongly in favor of, at one time)
+      - a man's home is his castle...the essence of the Magna Carta systems...rights of the individual to be secure from random searches
+    - or invasive tactics to catch criminals, regulate behavior, and control the population
+      - the legitimate needs to enforce laws, to respond to situations
+    - this parallels the issue of self-protection vs. protection by law and police
+      - as seen in the gun debate
+      - crypto = guns in the sense of being an individual's preemptive protection
+    - past the point of no return
+  - Strong crypto as building material for a new age
+  + Transnationalism and Increased Degrees of Freedom
+    - governments can't hope to control movements and communications of citizens; borders are transparent
++ Not all list members share all views
+  - This is not "the Official Cypherpunks FAQ." No such thing can exist. This is the FAQ I wanted written. Views expressed are my own, with as much input from others, as much consensus, as I can manage. If you want a radically
+ different FAQ, write it yourself.  If you don't like this FAQ, don't read it. And tell your friends not to read it. But don't bog down my mailbox, or the 500 others on the list, with messages about how you would have worded Section 12.4.7.2 slightly differently, or how Section 6.9.12 does not fully reflect your views. For obvious reasons.
+  - All FAQs are the products of a primary author, sometimes of a committee. For this FAQ, I am the sole author. At least of the version you are reading now. Future versions may have more input from others, though this makes me nervous (I favor new authors writing their own stuff, or using hypertext links, rather than taking my basic writing and attaching their name to it--it is true that I include the quotes of many folks here, but I do so by explicitly quoting them in the chunk they wrote....it will be tough for later authors to clearly mark what Tim May wrote without excessively cluttering the text. The revisionist's dilemma.
+  - The list has a lot of radical libertarians, some anarcho-capitalists, and even a few socialists
+  - Mostly computer-related folks, as might be expected. (There are some political scientists, classical scholars, etc. Even a few current or ex-lawyers.)
+  + Do I Speak for Others?
+  +   - As I said, no. But sometimes I make claims about what "most" list members believe, what "many" believe, or what "some" believe.
+  - "Most" is my best judgment of what the majority believe, at least the vocal majority in Cypherpunks discussions (at the physical meetings, parties, etc.) and on the List. "Many" means fewer, and "some" fewer still. "A few" will mean a distinct minority. Note that this is from the last 18 months of activity (so don't send in clarifications now to try to "sway the vote").
+  - In particular, some members may be quite uncomfortable being described as anarchists, crypto anarchists, money launderers, etc.
++  My comments won't please everyone
+  - on nearly every point ever presented, some have disagreed
+  - feuds, battles, flames, idee fixes
+  - on issues ranging from gun control to Dolphin Encrypt to various pet theories held dearly
+  - Someone once made a mundane joke about pseudonyms being like multiple personality disorder--and a flame came back saying: "That's not funny. I am MPD and my SO is MPD. Please stop immediately!"
+  - can't be helped....can't present all sides to all arguments
++ Focus of this FAQ is U.S.-centric, for various reasons
+  - most on list are in U.S., and I am in U.S. 
+  - NSA and crypto community is largely centered in the U.S., with some strong European activities
+  - U.S. law is likely to influence overseas law
++ We are at a fork in the road,  a Great Divide
+  - Surveillance vs. Freedom
+  - nothing in the middle...either strong crypto and privacy is strongly limited, or the things I describe here will be done by some people....hence the "tipping factor" applies (point of no return, horses out of the barn)
++ I make no claim to speaking "for the group." If you're offended, write your own FAQ. My focus on things loosely called "crypto anarchy" is just that: my _focus_. This focus naturally percolates over into something like this FAQ, just as someone primarily interested in the mechanics of PGP would devote more space to PGP issues than I have.
+  - Gary Jeffers, for example, devotes most of his "CEB" to issues surrounding PGP.
++ Will leave out some of the highly detailed items...
+  - Clipper, LEAF, escrow, Denning, etc.
+  - a myriad of encryption programs, bulk  ciphers, variants on PGP, etc. Some of these I've listed...others I've had to throw my hands over and just ignore. (Keeping track of zillions of versions for dozens of platforms...)
+  - easy to get lost in the details, buried in the bullshit
   
-  1.3. Motivations
+##Motivations
+
     1.3.1. With so much material available, why another FAQ?
     1.3.2. No convenient access to archives of the list....and who could
             read 50 MB of stuff anyway?
