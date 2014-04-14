@@ -57,38 +57,22 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
 - With so much material available, why another FAQ?
 - No convenient access to archives of the list....and who could read 50 MB of stuff anyway?
 - Why not Web? (Mosaic, Http, URL, etc.)
-           - Why not a navigable Web document?
-           - This is becoming trendy. Lots of URLs are included here, in
-              fact. But making all documents into Web documents has
-              downsides.
-           + Reasons why not:
-             - No easy access for me.
-             - Many others also lack access. Text still rules.
-             - Not at all clear that a collection of hundreds of
-                fragments is useful
-             - I like the structured editors available on my Mac
-                (specifically, MORE, an outline editor)
-             -
-    1.3.4. What the Essential Points Are
-           - It's easy to lose track of what the core issues are, what
-              the really important points are. In a FAQ like this, a vast
-              amount of "cruft" is presented, that is, a vast amount of
-              miscellaneous, tangential, and epiphenomenal material.
-              Names of PGP versions, variants on steganograhy, and other
-              such stuff, all of which will change over the next few
-              months and years.
-           + And yet that's partly what a FAQ is for. The key is just
-              not to lose track of the key ideas. I've mentioned what I
-              think are the important ideas many times. To wit:
-             - that many approaches to crypto exist
-             - that governments essentially cannot stop most of these
-                approaches, short of establishing a police state (and
-                probably not even then)
-             - core issues of identity, authentication, pseudonyms,
-                reputations, etc.
-  
-  1.4. Who Should Read This
-    1.4.1. "Should I read this?"
+- Why not a navigable Web document?
+- This is becoming trendy. Lots of URLs are included here, in fact. But making all documents into Web documents has downsides.
++ Reasons why not:
+  - No easy access for me.
+  - Many others also lack access. Text still rules.
+  - Not at all clear that a collection of hundreds of fragments is useful
+  - I like the structured editors available on my Mac (specifically, MORE, an outline editor)
+- What the Essential Points Are
+  - It's easy to lose track of what the core issues are, what the really important points are. In a FAQ like this, a vast amount of "cruft" is presented, that is, a vast amount of miscellaneous, tangential, and epiphenomenal material. Names of PGP versions, variants on steganograhy, and other such stuff, all of which will change over the next few months and years.
+  + And yet that's partly what a FAQ is for. The key is just not to lose track of the key ideas. I've mentioned what I think are the important ideas many times. To wit: 
+    - that many approaches to crypto exist
+    - that governments essentially cannot stop most of these approaches, short of establishing a police state (and probably not even then)
+    - core issues of identity, authentication, pseudonyms, reputations, etc.
+
+- Who Should Read This
+  - "Should I read this?"
            - Yes, reading this will point you toward other sources of
               information, will answer the most commonly asked questions,
               and will (hopefully) head off the reappearance of the same
