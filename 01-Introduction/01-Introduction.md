@@ -71,191 +71,193 @@ THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrig
     - that governments essentially cannot stop most of these approaches, short of establishing a police state (and probably not even then)
     - core issues of identity, authentication, pseudonyms, reputations, etc.
 
-- Who Should Read This
-  - "Should I read this?"
-           - Yes, reading this will point you toward other sources of
-              information, will answer the most commonly asked questions,
-              and will (hopefully) head off the reappearance of the same
-              tired themes every few months.
-           - Use a search tool if you have one. Grep for the things that
-              interest you, etc. The granularity of this FAQ does not
-              lend itself to Web conversion, at least not with present
-              tools.
-           + What _Won't_ Be Covered Here
-             + basic cryptography
-               + many good texts, FAQs, etc., written by full-time
-                  cryptologists and educators
-                 - in particular, some of the ideas are not simple, and
-                    take several pages of well-written text to get the
-                    point across
+## 1.4 Who Should Read This
+- "Should I read this?"
+    - Yes, reading this will point you toward other sources of
+      information, will answer the most commonly asked questions,
+      and will (hopefully) head off the reappearance of the same
+      tired themes every few months.
+   - Use a search tool if you have one. Grep for the things that
+      interest you, etc. The granularity of this FAQ does not
+      lend itself to Web conversion, at least not with present
+      tools.
+   + What _Won't_ Be Covered Here
+     + basic cryptography
+     + many good texts, FAQs, etc., written by full-time
+      cryptologists and educators
+        - in particular, some of the ideas are not simple, and
+            take several pages of well-written text to get the
+            point across
                - not the focus of this FAQ
-             - basic political rants
+         - basic political rants
   
-  1.5. Comments on Style and Thoroughness
-    1.5.1. "Why is this FAQ not in Mosaic form?"
-           - because the author (tcmay, as of 7/94) does not have Mosaic
-              access, and even if did, would not necessarily....
-           - linear text is still fine for some things...can be read on
-              all platforms, can be printed out, and can be searched with
-              standard grep and similar tools
-    1.5.2. "Why the mix of styles?"
-           + There are three main types of styles here:
-             - Standard prose sections, explaining some point or listing
-                things. Mini-essays, like most posts to Cypherpunks.
-             + Short, outline-style comments
-               - that I didn't have time or willpower to expand into
-                  prose format
-               - that work best in outline format anyway
-               - like this
-             + Quotes from others
-               - Cypherpunks are a bright group. A lot of clever things
-                  have been said in the 600 days x 40 posts/day = 24,000
-                  posts, and I am trying to use what I can.
-               + Sadly, only a tiny fraction can be used
-                 - because I simply cannot _read_  even a fraction of
-                    these posts over again (though I've only saved
-                    several thousand of the posts)
-                 - and because including too many of these posts would
-                    simply make the FAQ too long (it's still too long, I
-                    suppose)
+## 1.5. Comments on Style and Thoroughness
+- "Why is this FAQ not in Mosaic form?"
+   - because the author (tcmay, as of 7/94) does not have Mosaic
+      access, and even if did, would not necessarily....
+   - linear text is still fine for some things...can be read on
+      all platforms, can be printed out, and can be searched with
+      standard grep and similar tools
+- "Why the mix of styles?"
+   + There are three main types of styles here:
+     - Standard prose sections, explaining some point or listing
+       things. Mini-essays, like most posts to Cypherpunks.
+     + Short, outline-style comments
+       - that I didn't have time or willpower to expand into
+       prose format
+       - that work best in outline format anyway
+       - like this
+     + Quotes from others
+       - Cypherpunks are a bright group. A lot of clever things
+       have been said in the 600 days x 40 posts/day = 24,000
+       posts, and I am trying to use what I can.
+       + Sadly, only a tiny fraction can be used
+        - because I simply cannot _read_  even a fraction of
+            these posts over again (though I've only saved
+            several thousand of the posts)
+        - and because including too many of these posts would
+            simply make the FAQ too long (it's still too long, I
+            suppose)
            - I hope you can handle the changes in tone of voice, in
               styles, and even in formats. It'll just too much time to
               make it all read uniformly.
-    1.5.3. Despite the length of this thing, a vast amount of stuff is
-            missing. There have been hundreds of incisive analyses by
-            Cypherpunks, dozens of survey articles on Clipper, and
-            thousands of clever remarks. Alas, only a few of them here.
-           - And with 25 or more books on the Internet, hundreds of FAQs
-              and URLs, it's clear that we're all drowning in a sea of
-              information about the Net.
-           - Ironically, good old-fashioned books have a lot more
-              relevant and timeless information.
-    1.5.4. Caveats on the completeness or accuracy of this FAQ
-           + not all points are fully fleshed out...the outline nature
-              means that nearly all points could be further added-to,
-              subdivided, taxonomized, and generally fleshed-out with
-              more points, counterpoints, examples
-             - like a giant tree...branches, leaves, tangled hierarchies
-           + It is inevitable that conflicting points will be made in a
-              document of this size
-             - views change, but don't get corrected in all places
-             - different contexts lead to different viewpoints
-             - simple failure by me to be fully consistent
-             - and many points raised here would, if put into an essay
-                for the Cypherpunks list, generate comments, rebuttals,
-                debate, and even acrimony....I cannot expect to have all
-                sides represented fully, especially as the issues are
-                often murky, unresolved, in dispute, and generally
-                controversial
-           - inconsistencies in the points here in this FAQ
+- Despite the length of this thing, a vast amount of stuff is
+    missing. There have been hundreds of incisive analyses by
+    Cypherpunks, dozens of survey articles on Clipper, and
+    thousands of clever remarks. Alas, only a few of them here.
+   - And with 25 or more books on the Internet, hundreds of FAQs
+      and URLs, it's clear that we're all drowning in a sea of
+      information about the Net.
+   - Ironically, good old-fashioned books have a lot more
+      relevant and timeless information.
+      
+- Caveats on the completeness or accuracy of this FAQ
+    + not all points are fully fleshed out...the outline nature
+      means that nearly all points could be further added-to,
+      subdivided, taxonomized, and generally fleshed-out with
+      more points, counterpoints, examples
+     - like a giant tree...branches, leaves, tangled hierarchies
+    + It is inevitable that conflicting points will be made in a
+      document of this size
+     - views change, but don't get corrected in all places
+     - different contexts lead to different viewpoints
+     - simple failure by me to be fully consistent
+     - and many points raised here would, if put into an essay
+        for the Cypherpunks list, generate comments, rebuttals,
+        debate, and even acrimony....I cannot expect to have all
+        sides represented fully, especially as the issues are
+        often murky, unresolved, in dispute, and generally
+        controversial
+    - inconsistencies in the points here in this FAQ
   
-  1.6. Corrections and Elaborations
-         + "How to handle corrections or clarifications?"
-           - While I have done my best to ensure accuracy, errors will
-              no doubt exist. And as anyone can see from reading the
-              Cypherpunks list, nearly *any* statement made about any
-              subject can produce a flurry of rebuttals, caveats,
-              expansions, and whatnot. Some subjects, such as the nature
-              of money, the role of Cypherpunks, and the role of
-              reputations, produce dozens of differing opinions every
-              time they come up!
-           - So, it is not likely that my points here will be any
-              different. Fortunately, the sheer number of points here
-              means that not every one of them will be disagreed with.
-              But the math is pretty clear: if every reader finds even
-              one thing to disagree with and then posts his rebuttal or
-              elaboration....disaster! (Especially if some people can't
-              trim quotes properly and end up including a big chunk of
-              text.)
-           + Recommendations
-             - Send corrections of _fact_ to me
-             - If you disagree with my opinion, and you think you can
-                change my mind, or cause me to include your opinion as an
-                elaboration or as a dissenting view, then send it. If
-                your point requires long debate or is a deep
-                disagreement, then I doubt I have the time or energy to
-                debate. If you want your views heard, write your own FAQ!
-             - Ultimately, send what you want. But I of course will
-                evaluate comments and apply a reputation-based filter to
-                the traffic. Those who send me concise, well-reasoned
-                corrections or clarifications are likelier to be listened
-                to than those who barrage me with minor clarifications
-                and elaborations.
-             - In short, this is not a group project. The "stone soup
-                FAQ" is not what this is.
-           + More information
-             - Please don't send me e-mail asking for more information
-                on a particular topic--I just can't handle custom
-                research. This FAQ is long enough, and the Glossary at
-                the end contains additional information, so that I cannot
-                expand upon these topics (unless there is a general
-                debate on the list). In other words, don't assume this
-                FAQ is an entry point into a larger data base I will
-                generate. I hate to sound so blunt, but I've seen the
-                requests that come in every time I write a fairly long
-                article.
-           + Tips on feedback
-             - Comments about writing style, of the form "I would have
-                written it _this_ way," are especially unwelcome.
-         + Credit issues
-           - inevitable that omissions or collisions will occur
-           - ideas have many fathers
-           - some ideas have been "in the air" for many years
-           + slogans are especially problematic
-             - "They can have my...."...I credit Barlow with this, but
-                I've heard others use it independently (I think; at least
-                I used it before hearing Barlow used it)
-             - "If crypto is outlawed, only outlaws will have crypto"
-             - "Big Brother Inside"
-           - if something really bothers you, send me a note
+## 1.6. Corrections and Elaborations
+ + "How to handle corrections or clarifications?"
+   - While I have done my best to ensure accuracy, errors will
+      no doubt exist. And as anyone can see from reading the
+      Cypherpunks list, nearly *any* statement made about any
+      subject can produce a flurry of rebuttals, caveats,
+      expansions, and whatnot. Some subjects, such as the nature
+      of money, the role of Cypherpunks, and the role of
+      reputations, produce dozens of differing opinions every
+      time they come up!
+   - So, it is not likely that my points here will be any
+      different. Fortunately, the sheer number of points here
+      means that not every one of them will be disagreed with.
+      But the math is pretty clear: if every reader finds even
+      one thing to disagree with and then posts his rebuttal or
+      elaboration....disaster! (Especially if some people can't
+      trim quotes properly and end up including a big chunk of
+      text.)
++ Recommendations
+ - Send corrections of _fact_ to me
+ - If you disagree with my opinion, and you think you can
+    change my mind, or cause me to include your opinion as an
+    elaboration or as a dissenting view, then send it. If
+    your point requires long debate or is a deep
+    disagreement, then I doubt I have the time or energy to
+    debate. If you want your views heard, write your own FAQ!
+ - Ultimately, send what you want. But I of course will
+    evaluate comments and apply a reputation-based filter to
+    the traffic. Those who send me concise, well-reasoned
+    corrections or clarifications are likelier to be listened
+    to than those who barrage me with minor clarifications
+    and elaborations.
+ - In short, this is not a group project. The "stone soup
+    FAQ" is not what this is.
+    
++ More information
+     - Please don't send me e-mail asking for more information
+        on a particular topic--I just can't handle custom
+        research. This FAQ is long enough, and the Glossary at
+        the end contains additional information, so that I cannot
+        expand upon these topics (unless there is a general
+        debate on the list). In other words, don't assume this
+        FAQ is an entry point into a larger data base I will
+        generate. I hate to sound so blunt, but I've seen the
+        requests that come in every time I write a fairly long
+        article.
+   + Tips on feedback
+     - Comments about writing style, of the form "I would have
+        written it _this_ way," are especially unwelcome.
+ + Credit issues
+   - inevitable that omissions or collisions will occur
+   - ideas have many fathers
+   - some ideas have been "in the air" for many years
+   + slogans are especially problematic
+     - "They can have my...."...I credit Barlow with this, but
+        I've heard others use it independently (I think; at least
+        I used it before hearing Barlow used it)
+     - "If crypto is outlawed, only outlaws will have crypto"
+     - "Big Brother Inside"
+   - if something really bothers you, send me a note
   
-  1.7. Acknowledgements
-    1.7.1. Acknowledgements
-           - My chief thanks go to the several hundred active
-              Cypherpunks posters, past and present.
-           - All rights reserved. Copyright Timothy C. May. Don't try to
-              sell this or incorporate it into anything that is sold.
-              Quoting brief sections is "fair use"...quoting long
-              sections is not.
+## 1.7. Acknowledgements
+- Acknowledgements
+   - My chief thanks go to the several hundred active
+      Cypherpunks posters, past and present.
+   - All rights reserved. Copyright Timothy C. May. Don't try to
+      sell this or incorporate it into anything that is sold.
+      Quoting brief sections is "fair use"...quoting long
+      sections is not.
   
-  1.8. Ideas and Notes (not to be printed)
-    1.8.1. Graphics for cover
-           - two blocks...plaintext to cryptotext
-           - Cypherpunks FAQ
-           - compiled by Timothy C. May, tcmay@netcom.com
-           - with help from many Cypherpunks
-           - with material from other sources
-           - <credited in angle brackets>
-    1.8.2. "So don't ask"
+## 1.8. Ideas and Notes (not to be printed)
+- Graphics for cover
+   - two blocks...plaintext to cryptotext
+   - Cypherpunks FAQ
+   - compiled by Timothy C. May, tcmay@netcom.com
+   - with help from many Cypherpunks
+   - with material from other sources
+   - <credited in angle brackets>
+   - "So don't ask"
   
-  1.9. Things are moving quickly in crypto and crypto policy
-    1.9.1. hard to keep this FAQ current, as info changes
-    1.9.2. PGP in state of flux
-    1.9.3. new versions of tools coming constantly
-    1.9.4. And the whole Clipper thing has been turned on its head
-            recently by the Administration's backing off...lots of points
-            already made here are now rendered moot and are primarily of
-            historical interest only.
-           - Gore's letter to Cantwell
-           - Whit Diffie described a conference on key escrow systems in
-              Karlsruhe, Germany, which seemed to contain new ideas
-           - TIS? (can't use this info?)
+## 1.9. Things are moving quickly in crypto and crypto policy
+- hard to keep this FAQ current, as info changes
+- PGP in state of flux
+- new versions of tools coming constantly
+- And the whole Clipper thing has been turned on its head
+    recently by the Administration's backing off...lots of points
+    already made here are now rendered moot and are primarily of
+    historical interest only.
+   - Gore's letter to Cantwell
+   - Whit Diffie described a conference on key escrow systems in
+      Karlsruhe, Germany, which seemed to contain new ideas
+   - TIS? (can't use this info?)
  
- 1.10. Notes: The Cyphernomicon: the CypherFAQ and More
-   1.10.1. 2.3.1.  "The Book of Encyphered Names"
-           - Ibn al-Taz Khallikak, the Pine Barrens Horror.
-           - Liber Grimoiris....Cifur???
-           - spreading from the Sumerian sands, through the gate of
-              Ishtar, to the back alleys of Damascus, tempered with the
-              blood of Westerners
-           - Keys of Solomon, Kool John Dee and the Rapping Cryps  Gone
-              to Croatan
-           - Peter Krypotkin, the Russian crypto anarchist
-           - Twenty-nine Primes, California
-   1.10.2. 2.3.2.  THE CYPHERNOMICON: a Cypherpunk FAQ and More---
+## 1.10. Notes: The Cyphernomicon: the CypherFAQ and More
+ - 2.3.1.  "The Book of Encyphered Names"
+   - Ibn al-Taz Khallikak, the Pine Barrens Horror.
+   - Liber Grimoiris....Cifur???
+   - spreading from the Sumerian sands, through the gate of
+      Ishtar, to the back alleys of Damascus, tempered with the
+      blood of Westerners
+   - Keys of Solomon, Kool John Dee and the Rapping Cryps  Gone
+      to Croatan
+   - Peter Krypotkin, the Russian crypto anarchist
+   - Twenty-nine Primes, California
+- 2.3.2.  THE CYPHERNOMICON: a Cypherpunk FAQ and More---
             Version 0.666
-   1.10.3. 1994-09-01,   Copyright Timothy C. May,   tcmay@netcom.com
-   1.10.4.
+- 1994-09-01,   Copyright Timothy C. May,   tcmay@netcom.com
+
            - Written and compiled by Tim May, except as noted by
               credits. (Influenced by years of good posts on the
               Cypherpunks list.) Permission is granted to post and
