@@ -593,11 +593,3 @@
               gutsy thing to consider....fraught with dangers, but
               ultimately destabilizing of governments
 
-4. Goals and Ideology -- Privacy, Freedom, New Approaches
-  
-  4.1. copyright
-            THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666,
-            1994-09-10, Copyright Timothy C. May. All rights reserved.
-            See the detailed disclaimer. Use short sections under "fair
-            use" provisions, with appropriate credit, but don't put your
-            name on my words.
