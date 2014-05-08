@@ -1,214 +1,221 @@
-2. MFAQ--Most Frequently Asked Questions
+Most Frequently Asked Questions
+============
+
+##2.1. copyright
+
+THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666,
+1994-09-10, Copyright Timothy C. May. All rights reserved.
+See the detailed disclaimer. Use short sections under "fair
+use" provisions, with appropriate credit, but don't put your
+name on my words.
   
-  2.1. copyright
-            THE  CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666,
-            1994-09-10, Copyright Timothy C. May. All rights reserved.
-            See the detailed disclaimer. Use short sections under "fair
-            use" provisions, with appropriate credit, but don't put your
-            name on my words.
+##2.2. SUMMARY: MFAQ--Most Frequently Asked Questions
+
+Main Points
+
+- These are the main questions that keep coming up. Not
+  necessarily the most basic question, just the ones that get
+  asked a lot. What most FAQs are.
+- Connections to Other Sections
+- Where to Find Additional Information
+    - newcomers to crypto should buy Bruce Schneier's "Applied
+      Cryptography"...it will save many hours worth of
+      unnecessary questions and clueless remarks about
+      cryptography.
+    - the various FAQs publishe in the newsroups (like sci.crypt,
+      alt.security.pgp) are very helpful. (also at rtfm.mit.edu)
+- Miscellaneous Comments
+    - I wasn't sure what to include here in the MFAQ--perhaps
+      people can make suggestions of other things to include.
+    - My advice is that if something interests you, use your
+      editing/searching tools to find the same topic in the main
+      section. Usually (but not always) there's more material in
+      the main chapters than here in the MFAQ.
   
-  2.2. SUMMARY: MFAQ--Most Frequently Asked Questions
-    2.2.1. Main Points
-           - These are the main questions that keep coming up. Not
-              necessarily the most basic question, just the ones that get
-              asked a lot. What most FAQs are.
-    2.2.2. Connections to Other Sections
-    2.2.3. Where to Find Additional Information
-           - newcomers to crypto should buy Bruce Schneier's "Applied
-              Cryptography"...it will save many hours worth of
-              unnecessary questions and clueless remarks about
-              cryptography.
-           - the various FAQs publishe in the newsroups (like sci.crypt,
-              alt.security.pgp) are very helpful. (also at rtfm.mit.edu)
-    2.2.4. Miscellaneous Comments
-           - I wasn't sure what to include here in the MFAQ--perhaps
-              people can make suggestions of other things to include.
-           - My advice is that if something interests you, use your
-              editing/searching tools to find the same topic in the main
-              section. Usually (but not always) there's more material in
-              the main chapters than here in the MFAQ.
+##2.3. "What's the 'Big Picture'?"
+
+- Strong crypto is here. It is widely available.
+- It implies many changes in the way the world works. Private
+    channels between parties who have never met and who never
+    will meet are possible. Totally anonymous, unlinkable,
+    untraceable communications and exchanges are possible.
+- Transactions can only be *voluntary*, since the parties are
+    untraceable and unknown and can withdraw at any time. This
+    has profound implications for the conventional approach of
+    using the threat of force, directed against parties by
+    governments or by others. In particular, threats of force
+    will fail.
+ - What emerges from this is unclear, but I think it will be a
+    form of anarcho-capitalist market system I call "crypto
+    anarchy." (Voluntary communications only, with no third
+    parties butting in.)
   
-  2.3. "What's the 'Big Picture'?"
-    2.3.1. Strong crypto is here. It is widely available.
-    2.3.2. It implies many changes in the way the world works. Private
-            channels between parties who have never met and who never
-            will meet are possible. Totally anonymous, unlinkable,
-            untraceable communications and exchanges are possible.
-    2.3.3. Transactions can only be *voluntary*, since the parties are
-            untraceable and unknown and can withdraw at any time. This
-            has profound implications for the conventional approach of
-            using the threat of force, directed against parties by
-            governments or by others. In particular, threats of force
-            will fail.
-    2.3.4. What emerges from this is unclear, but I think it will be a
-            form of anarcho-capitalist market system I call "crypto
-            anarchy." (Voluntary communications only, with no third
-            parties butting in.)
-  
-  2.4. Organizational
-    2.4.1. "How do I get on--and off--the Cypherpunks list?"
-           - Send a message to "cypherpunks-request@toad.com"
-           - Any auto-processed commands?
-           - don't send requests to the list as a whole....this will
-              mark you as "clueless"
-    2.4.2. "Why does the Cypherpunks list sometimes go down, or lose the
-            subscription list?"
-           - The host machine, toad.com, owned by John Gilmore, has had
-              the usual problems such machines have: overloading,
-              shortages of disk space, software upgrades, etc. Hugh
-              Daniel has done an admirable job of keeping it in good
-              shape, but problems do occur.
-           - Think of it as warning that lists and communication systems
-              remain somewhat fragile....a lesson for what is needed to
-              make digital money more robust and trustable.
-           - There is no paid staff, no hardware budget for
-              improvements. The work done is strictly voluntarily.
-    2.4.3. "If I've just joined the Cypherpunks list, what should I do?"
-           - Read for a while. Things will become clearer, themes will
-              emerge, and certain questions will be answered. This is
-              good advice for any group or list, and is especially so for
-              a list with 500 or more people on it. (We hit 700+ at one
-              point, then a couple of list outages knocked the number
-              down a bit.)
-           - Read the references mentioned here, if you can. The
-              sci.crypt FAQ should be read. And purchase Bruce Schneier's
-              "Applied Cryptography" the first chance you get.
-           - Join in on things that interest you, but don't make a fool
-              of yourself. Reputations matter, and you may come to regret
-              having come across as a tedious fool in your first weeks on
-              the list. (If you're a tedious fool after the first few
-              weeks, that may just be your nature, of course.)
-           - Avoid ranting and raving on unrelated topics, such as
-              abortion (pro or con), guns (pro or con), etc. The  usual
-              topics that usually generate a lot of heat and not much
-              light. (Yes, most of us have strong views on these and
-              other topics, and, yes, we sometimes let our views creep
-              into discussions. There's no denying that certain
-              resonances exist. I'm just urging caution.)
-    2.4.4. "I'm swamped by the list volume; what can I do?"
-           - This is a natural reaction. Nobody can follow it all; I
-              spend entirely too many hours a day reading the list, and I
-              certainly can't follow it all. Pick areas of expertise and
-              then follow them and ignore the rest. After all, not seeing
-              things on the list can be no worse than not even being
-              subscribed to the list!
-           - Hit the "delete" key quickly
-           - find someone who will digest it for you (Eric Hughes has
-              repeatedly said anyone can retransmit the list this way;
-              Hal Finney has offered an encrypted list)
-           + Better mailers may help. Some people have used mail-to-news
-              systems and then read the list as a local newsgroup, with
-              threads.
-             - I have Eudora, which supports off-line reading and
-                sorting features, but I generally end up reading with an
-                online mail program (elm).
-           - The mailing list may someday be switched over to a
-              newsgroup, a la "alt.cypherpunks." (This may affect some
-              people whose sites do not carry alt groups.)
-    2.4.5. "It's very easy to get lost in the morass of detail here. Are
-            there any ways to track what's *really* important?"
-           - First, a lot of the stuff posted in the Usenet newsgroups,
-              and on the Cypherpunks list, is peripheral stuff,
-              epiphenomenal cruft that will blow away in the first strong
-              breeze. Grungy details about PGP shells, about RSA
-              encryption speeds, about NSA supercomputers. There's just
-              no reason for people to worry about "weak IDEA keys" when
-              so many more pressing matters exist. (Let the experts
-              worry.) Little of this makes any real difference, just as
-              little of the stuff in daily newspapers is memorable or
-              deserves to be memorable.
-           - Second, "read the sources." Read "1984," "The Shockwave
-              Rider," "Atlas Shrugged," "True Names." Read the Chaum
-              article on making Big Brother obsolete (October 1985,
-              "Communications of the ACM").
-           - Third, don't lose sight of the core values: privacy,
-              technological solutions over legal solutions, avoiding
-              taxation, bypassing laws, etc. (Not everyone will agree
-              with all of these points.)
-           - Fourth, don't drown in the detail. Pick some areas of
-              interest and follow _them_. You may not need to know the
-              inner workings of DES or all the switches on PGP to make
-              contributions in other areas. (In fact, you surely don't.)
-    2.4.6. "Who are the Cypherpunks?"
-           - A mix of about 500-700
-           + Can find out who by sending message to majordomo@toad.com
-              with the message body text "who cypherpunks" (no quotes, of
-              course).
-             - Is this a privacy flaw? Maybe.
-           - Lots of students (they have the time, the Internet
-              accounts). Lots of computer science/programming folks. Lots
-              of libertarians.
-           - quote from Wired article, and from "Whole Earth Review"
-    2.4.7. "Who runs the Cypherpunks?"
-           - Nobody. There's no formal "leadership." No ruler = no head
-              = an arch = anarchy. (Look up the etymology of anarchy.)
-           - However, the mailing list currently resides on a physical
-              machine, and this machine creates some nexus of control,
-              much like having a party at someon'e house. The list
-              administrator is currently Eric Hughes (and has been since
-              the beginning). He is helped by Hugh Daniel, who often does
-              maintenance of the toad.com, and by John Gilmore, who owns
-              the toad.com machine and account.
-           - In an extreme situation of abuse or neverending ranting,
-              these folks could kick someone off the list and block them
-              from resubscribing via majordomo. (I presume they could--
-              it's never happened.)
-           - To emphasize: nobody's ever been kicked off the list, so
-              far as I know. Not even Detweiler...he asked to be removed
-              (when the list subscribes were done manually).
-           - As to who sets policy, there is no policy! No charter, no
-              agenda, no action items. Just what people want to work on
-              themselves. Which is all that can be expected. (Some people
-              get frustrated at this lack of consensus, and they
-              sometimes start flaming and ranting about "Cypherpunks
-              never do anything," but this lack of consensus is to be
-              expected. Nobody's being paid, nobody's got hiring and
-              firing authority, so any work that gets done has to be
-              voluntary. Some volunteer groups are more organized than we
-              are, but there are other factors that make this more
-              possible for them than it is for us. C'est la vie.)
-           - Those who get heard on the mailing list, or in the physical
-              meetings, are those who write articles that people find
-              interesting or who say things of note. Sounds fair to me.
-    2.4.8. "Why don't the issues that interest me get discussed?"
-           - Maybe they already have been--several times. Many newcomers
-              are often chagrined to find arcane topics being discussed,
-              with little discussion of "the basics."
-           - This is hardly surprising....people get over the "basics"
-              after a few months and want to move on to more exciting (to
-              them) topics. All lists are like this.
-           - In any case, after you've read the list for a while--maybe
-              several weeks--go ahead and ask away. Making your topic
-              fresher may generate more responses than, say, asking
-              what's wrong with Clipper. (A truly overworked topic,
-              naturally.)
-    2.4.9. "How did the Cypherpunks group get started?"
-   2.4.10. "Where did the name 'Cypherpunks' come from?"
-           + Jude Milhon, aka St. Jude, then an editor at "Mondo 2000,"
-              was at the earliest meetings...she quipped "You guys are
-              just a bunch of cypherpunks." The name was adopted
-              immediately.
-             - The 'cyberpunk' genre of science fiction often deals with
-                issues of cyberspace and computer security ("ice"), so
-                the link is natural.  A point of confusion is that
-                cyberpunks are popularly thought of as, well, as "punks,"
-                while many Cyberpunks are frequently libertarians and
-                anarchists of various stripes. In my view, the two are
-                not in conflict.
-             - Some, however, would prefer a more staid name. The U.K.
-                branch calls itself the "U.K. Crypto Privacy
-                Association." <check this> However, the advantages of the
-                name are clear. For one thing, many people are bored by
-                staid names. For another, it gets us noticed by
-                journalists and others.
-             -
-           - We are actually not very "punkish" at all. About as punkish
-              as most of our cyberpunk cousins are, which is to say, not
-              very.
-           + the name
-             - Crypto Cabal (this before the sci.crypt FAQ folks
-                appeared, I think), Crypto Liberation Front, other names
-             - not everybody likes the name...such is life
+- 2.4. Organizational
+- "How do I get on--and off--the Cypherpunks list?"
+    - Send a message to "cypherpunks-request@toad.com"
+    - Any auto-processed commands?
+    - don't send requests to the list as a whole....this will
+      mark you as "clueless"
+- "Why does the Cypherpunks list sometimes go down, or lose the
+   subscription list?"
+    - The host machine, toad.com, owned by John Gilmore, has had
+      the usual problems such machines have: overloading,
+      shortages of disk space, software upgrades, etc. Hugh
+      Daniel has done an admirable job of keeping it in good
+      shape, but problems do occur.
+    - Think of it as warning that lists and communication systems
+      remain somewhat fragile....a lesson for what is needed to
+      make digital money more robust and trustable.
+    - There is no paid staff, no hardware budget for
+      improvements. The work done is strictly voluntarily.
+- "If I've just joined the Cypherpunks list, what should I do?"
+    - Read for a while. Things will become clearer, themes will
+      emerge, and certain questions will be answered. This is
+      good advice for any group or list, and is especially so for
+      a list with 500 or more people on it. (We hit 700+ at one
+      point, then a couple of list outages knocked the number
+      down a bit.)
+    - Read the references mentioned here, if you can. The
+      sci.crypt FAQ should be read. And purchase Bruce Schneier's
+      "Applied Cryptography" the first chance you get.
+    - Join in on things that interest you, but don't make a fool
+      of yourself. Reputations matter, and you may come to regret
+      having come across as a tedious fool in your first weeks on
+      the list. (If you're a tedious fool after the first few
+      weeks, that may just be your nature, of course.)
+    - Avoid ranting and raving on unrelated topics, such as
+      abortion (pro or con), guns (pro or con), etc. The  usual
+      topics that usually generate a lot of heat and not much
+      light. (Yes, most of us have strong views on these and
+      other topics, and, yes, we sometimes let our views creep
+      into discussions. There's no denying that certain
+      resonances exist. I'm just urging caution.)
+- "I'm swamped by the list volume; what can I do?"
+   - This is a natural reaction. Nobody can follow it all; I
+      spend entirely too many hours a day reading the list, and I
+      certainly can't follow it all. Pick areas of expertise and
+      then follow them and ignore the rest. After all, not seeing
+      things on the list can be no worse than not even being
+      subscribed to the list!
+   - Hit the "delete" key quickly
+   - find someone who will digest it for you (Eric Hughes has
+      repeatedly said anyone can retransmit the list this way;
+      Hal Finney has offered an encrypted list)
+   + Better mailers may help. Some people have used mail-to-news
+      systems and then read the list as a local newsgroup, with
+      threads.
+     - I have Eudora, which supports off-line reading and
+        sorting features, but I generally end up reading with an
+        online mail program (elm).
+   - The mailing list may someday be switched over to a
+      newsgroup, a la "alt.cypherpunks." (This may affect some
+      people whose sites do not carry alt groups.)
+- "It's very easy to get lost in the morass of detail here. Are
+   there any ways to track what's *really* important?"
+    - First, a lot of the stuff posted in the Usenet newsgroups,
+      and on the Cypherpunks list, is peripheral stuff,
+      epiphenomenal cruft that will blow away in the first strong
+      breeze. Grungy details about PGP shells, about RSA
+      encryption speeds, about NSA supercomputers. There's just
+      no reason for people to worry about "weak IDEA keys" when
+      so many more pressing matters exist. (Let the experts
+      worry.) Little of this makes any real difference, just as
+      little of the stuff in daily newspapers is memorable or
+      deserves to be memorable.
+    - Second, "read the sources." Read "1984," "The Shockwave
+      Rider," "Atlas Shrugged," "True Names." Read the Chaum
+      article on making Big Brother obsolete (October 1985,
+      "Communications of the ACM").
+    - Third, don't lose sight of the core values: privacy,
+      technological solutions over legal solutions, avoiding
+      taxation, bypassing laws, etc. (Not everyone will agree
+      with all of these points.)
+    - Fourth, don't drown in the detail. Pick some areas of
+      interest and follow _them_. You may not need to know the
+      inner workings of DES or all the switches on PGP to make
+      contributions in other areas. (In fact, you surely don't.)
+- "Who are the Cypherpunks?"
+   - A mix of about 500-700
+   + Can find out who by sending message to majordomo@toad.com
+      with the message body text "who cypherpunks" (no quotes, of
+      course).
+     - Is this a privacy flaw? Maybe.
+   - Lots of students (they have the time, the Internet
+      accounts). Lots of computer science/programming folks. Lots
+      of libertarians.
+   - quote from Wired article, and from "Whole Earth Review"
+- "Who runs the Cypherpunks?"
+   - Nobody. There's no formal "leadership." No ruler = no head
+      = an arch = anarchy. (Look up the etymology of anarchy.)
+   - However, the mailing list currently resides on a physical
+      machine, and this machine creates some nexus of control,
+      much like having a party at someon'e house. The list
+      administrator is currently Eric Hughes (and has been since
+      the beginning). He is helped by Hugh Daniel, who often does
+      maintenance of the toad.com, and by John Gilmore, who owns
+      the toad.com machine and account.
+   - In an extreme situation of abuse or neverending ranting,
+      these folks could kick someone off the list and block them
+      from resubscribing via majordomo. (I presume they could--
+      it's never happened.)
+   - To emphasize: nobody's ever been kicked off the list, so
+      far as I know. Not even Detweiler...he asked to be removed
+      (when the list subscribes were done manually).
+   - As to who sets policy, there is no policy! No charter, no
+      agenda, no action items. Just what people want to work on
+      themselves. Which is all that can be expected. (Some people
+      get frustrated at this lack of consensus, and they
+      sometimes start flaming and ranting about "Cypherpunks
+      never do anything," but this lack of consensus is to be
+      expected. Nobody's being paid, nobody's got hiring and
+      firing authority, so any work that gets done has to be
+      voluntary. Some volunteer groups are more organized than we
+      are, but there are other factors that make this more
+      possible for them than it is for us. C'est la vie.)
+   - Those who get heard on the mailing list, or in the physical
+      meetings, are those who write articles that people find
+      interesting or who say things of note. Sounds fair to me.
+- "Why don't the issues that interest me get discussed?"
+   - Maybe they already have been--several times. Many newcomers
+      are often chagrined to find arcane topics being discussed,
+      with little discussion of "the basics."
+   - This is hardly surprising....people get over the "basics"
+      after a few months and want to move on to more exciting (to
+      them) topics. All lists are like this.
+   - In any case, after you've read the list for a while--maybe
+      several weeks--go ahead and ask away. Making your topic
+      fresher may generate more responses than, say, asking
+      what's wrong with Clipper. (A truly overworked topic,
+      naturally.)
+- "How did the Cypherpunks group get started?"
+- "Where did the name 'Cypherpunks' come from?"
+   + Jude Milhon, aka St. Jude, then an editor at "Mondo 2000,"
+      was at the earliest meetings...she quipped "You guys are
+      just a bunch of cypherpunks." The name was adopted
+      immediately.
+     - The 'cyberpunk' genre of science fiction often deals with
+        issues of cyberspace and computer security ("ice"), so
+        the link is natural.  A point of confusion is that
+        cyberpunks are popularly thought of as, well, as "punks,"
+        while many Cyberpunks are frequently libertarians and
+        anarchists of various stripes. In my view, the two are
+        not in conflict.
+     - Some, however, would prefer a more staid name. The U.K.
+        branch calls itself the "U.K. Crypto Privacy
+        Association." <check this> However, the advantages of the
+        name are clear. For one thing, many people are bored by
+        staid names. For another, it gets us noticed by
+        journalists and others.
+   - We are actually not very "punkish" at all. About as punkish
+      as most of our cyberpunk cousins are, which is to say, not
+      very.
+   + the name
+     - Crypto Cabal (this before the sci.crypt FAQ folks
+        appeared, I think), Crypto Liberation Front, other names
+     - not everybody likes the name...such is life
+     
+ ## Partially completed FAQ section
+     
    2.4.11. "Why doesn't the Cypherpunks group have announced goals,
             ideologies, and plans?"
            - The short answer: we're just a mailing list, a loose
