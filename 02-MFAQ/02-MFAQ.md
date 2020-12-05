@@ -530,11 +530,11 @@ Main Points
               to the juicy stuff).
            + I did find a simple explanation, with "toy numbers," from
               Matthew Ghio:
-             - "You pick two prime numbers; for example 5 and 7.
-                Multiply them together, equals 35.  Now you calculate the
-                product of one less than each number, plus one.  (5-1)(7-
+             - "You pick two prime numbers; for example 3 and 11.
+                Multiply them together, equals 33.  Now you calculate the
+                product of one less than each number, plus one.  (3-1)(11-
                 1)+1=21.  There is a mathematical relationship that says
-                that x = x^21 mod 35 for any x from 0 to 34.  Now you
+                that x = x^21 mod 33 for any x from 0 to 32.  Now you
                 factor 21, yeilds 3 and 7.
                 
                 "You pick one of those numbers to be your private key and
@@ -543,10 +543,10 @@ Main Points
                 Private key: 7
                 
                 "Someone encrypts a message for you by taking plaintext
-                message m to make ciphertext message c:  c=m^3 mod 35
+                message m to make ciphertext message c:  c=m^3 mod 33
                 
                 "You decrypt c and find m using your private key: m=c^7
-                mod 35
+                mod 33
                 
                 "If the numbers are several hundred digits long (as in
                 PGP), it is nearly impossible to guess the secret key."
